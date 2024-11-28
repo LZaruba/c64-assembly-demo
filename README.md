@@ -24,6 +24,8 @@ brew install vice
 x64sc
 ```
 
+When missing kernal and other ROMS, copy files from rom subfulder to `/usr/lib/vice/C64/`.
+
 ### (Optional) Install VSCode extension
 
 `ca65 Macro Assembler Language Support`
