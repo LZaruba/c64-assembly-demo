@@ -30,10 +30,15 @@ x64sc
 
 ## Resources
 
-[http://www.6502.org/tutorials/6502opcodes.html](6502 Opcodes)
-[https://www.c64-wiki.com/wiki/Memory_Map](C64 Memory Map)
-[https://sta.c64.org/cbm64pet.html](PETSCII Charset)
-[https://sta.c64.org/cbm64krnfunc.html](C64 Kernal Functions)
+[6502 Opcodes](http://www.6502.org/tutorials/6502opcodes.html)
+
+[CA65 Assembly Docs](https://cc65.github.io/doc/ca65.html)
+
+[C64 Memory Map](https://www.c64-wiki.com/wiki/Memory_Map)
+
+[PETSCII Charset](https://sta.c64.org/cbm64pet.html)
+
+[C64 Kernal Functions](https://sta.c64.org/cbm64krnfunc.html)
 
 ## Getting started
 
@@ -46,7 +51,7 @@ x64sc
 Fill the screen line by line with letters in the following pattern:
 First line will be fully filled by letter `A`, second with `B`, etc.
 
-See example here [goal.jpg].
+This is what the success looks like: ![Goal](goal.jpg)
 
 ### Hints
 
